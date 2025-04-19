@@ -4,6 +4,11 @@
   "description": "Lepisode 프로젝트 구조 생성 도구",
   "version": "0.0.1",
   "publisher": "jihun@lepisode.team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asdfgl98/lepi-extension.git"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
