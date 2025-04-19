@@ -12,4 +12,4 @@ UI로 Angular 프로젝트 컴포넌트를 생성 할 수 있습니다.
 
 ## 사용 방법 데모
 
-![사용 방법 데모](./asset/demo.gif)
+![사용 방법 데모](https://github.com/user-attachments/assets/8bb6790d-b659-47c0-b76a-c5cedbdc2eee)
